@@ -1,0 +1,880 @@
+driverid,season,location,constructorid,qualification_position,last_race_position,points,team_pitstop_time,final_position
+albon,2022,Melbourne,williams,16,14,0,74.696,10
+alonso,2022,Melbourne,alpine,10,16,2,77.44600000000001,17
+bottas,2022,Melbourne,alfa,12,15,8,77.8015,8
+gasly,2022,Melbourne,alphatauri,11,8,4,62.541500000000006,9
+hamilton,2022,Melbourne,mercedes,5,10,16,76.686,4
+latifi,2022,Melbourne,williams,19,18,0,74.696,16
+leclerc,2022,Melbourne,ferrari,1,2,45,73.7715,1
+kevin_magnussen,2022,Melbourne,haas,17,9,12,64.10249999999999,14
+norris,2022,Melbourne,mclaren,4,7,6,75.92450000000001,5
+ocon,2022,Melbourne,alpine,8,6,14,77.44600000000001,7
+perez,2022,Melbourne,red_bull,3,4,12,74.201,2
+ricciardo,2022,Melbourne,mclaren,7,17,0,75.92450000000001,6
+russell,2022,Melbourne,mercedes,6,5,22,76.686,3
+sainz,2022,Melbourne,ferrari,9,3,33,73.7715,20
+mick_schumacher,2022,Melbourne,haas,15,20,0,64.10249999999999,13
+stroll,2022,Melbourne,aston_martin,20,13,0,38.8675,12
+tsunoda,2022,Melbourne,alphatauri,13,19,4,62.541500000000006,15
+max_verstappen,2022,Melbourne,red_bull,2,1,25,74.201,18
+vettel,2022,Melbourne,aston_martin,18,,,38.8675,19
+zhou,2022,Melbourne,alfa,14,11,1,77.8015,11
+albon,2022,Imola,williams,20,10,1,56.69166666666666,11
+alonso,2022,Imola,alpine,5,17,2,65.85866666666668,19
+bottas,2022,Imola,alfa,8,8,12,83.23700000000001,5
+gasly,2022,Imola,alphatauri,17,9,6,49.30100000000001,12
+hamilton,2022,Imola,mercedes,13,4,28,65.525,13
+latifi,2022,Imola,williams,18,16,0,56.69166666666666,16
+leclerc,2022,Imola,ferrari,2,1,71,63.367333333333335,6
+kevin_magnussen,2022,Imola,haas,4,14,12,50.19299999999999,9
+norris,2022,Imola,mclaren,3,5,16,64.294,3
+ocon,2022,Imola,alpine,19,7,20,65.85866666666668,14
+perez,2022,Imola,red_bull,7,2,30,63.20466666666666,2
+ricciardo,2022,Imola,mclaren,6,6,8,64.294,18
+russell,2022,Imola,mercedes,11,3,37,65.525,4
+sainz,2022,Imola,ferrari,10,20,33,63.367333333333335,20
+mick_schumacher,2022,Imola,haas,12,13,0,50.19299999999999,17
+stroll,2022,Imola,aston_martin,15,12,0,33.358,10
+tsunoda,2022,Imola,alphatauri,16,15,4,49.30100000000001,7
+max_verstappen,2022,Imola,red_bull,1,18,25,63.20466666666666,1
+vettel,2022,Imola,aston_martin,9,19,0,33.358,8
+zhou,2022,Imola,alfa,14,11,1,83.23700000000001,15
+albon,2022,Miami,williams,18,11,1,56.602,9
+alonso,2022,Miami,alpine,11,19,2,63.4735,11
+bottas,2022,Miami,alfa,5,5,24,71.626,7
+gasly,2022,Miami,alphatauri,7,12,6,46.318000000000005,18
+hamilton,2022,Miami,mercedes,6,13,28,58.23275,6
+latifi,2022,Miami,williams,19,16,0,56.602,14
+leclerc,2022,Miami,ferrari,1,6,86,52.01875,2
+kevin_magnussen,2022,Miami,haas,16,9,15,47.182249999999996,16
+norris,2022,Miami,mclaren,8,3,35,57.147000000000006,19
+ocon,2022,Miami,alpine,20,14,20,63.4735,8
+perez,2022,Miami,red_bull,4,2,54,56.332249999999995,4
+ricciardo,2022,Miami,mclaren,14,18,11,57.147000000000006,13
+russell,2022,Miami,mercedes,12,4,49,58.23275,5
+sainz,2022,Miami,ferrari,2,20,38,52.01875,3
+mick_schumacher,2022,Miami,haas,15,17,0,47.182249999999996,15
+stroll,2022,Miami,aston_martin,10,10,1,39.3195,10
+tsunoda,2022,Miami,alphatauri,9,7,10,46.318000000000005,12
+max_verstappen,2022,Miami,red_bull,3,1,59,56.332249999999995,1
+vettel,2022,Miami,aston_martin,13,8,4,39.3195,17
+zhou,2022,Miami,alfa,17,15,1,71.626,20
+albon,2022,Montmeló,williams,19,9,3,57.66519999999999,18
+alonso,2022,Montmeló,alpine,17,11,2,57.0606,9
+bottas,2022,Montmeló,alfa,7,7,30,71.9328,6
+gasly,2022,Montmeló,alphatauri,14,18,6,49.20980000000001,13
+hamilton,2022,Montmeló,mercedes,6,6,36,59.35,5
+latifi,2022,Montmeló,williams,20,14,0,57.66519999999999,16
+leclerc,2022,Montmeló,ferrari,1,2,104,61.294200000000004,20
+kevin_magnussen,2022,Montmeló,haas,8,16,15,56.9596,17
+norris,2022,Montmeló,mclaren,11,19,35,70.3194,8
+ocon,2022,Montmeló,alpine,12,8,24,57.0606,7
+perez,2022,Montmeló,red_bull,5,4,66,69.053,2
+ricciardo,2022,Montmeló,mclaren,9,13,11,70.3194,12
+russell,2022,Montmeló,mercedes,4,5,59,59.35,3
+sainz,2022,Montmeló,ferrari,3,3,53,61.294200000000004,4
+mick_schumacher,2022,Montmeló,haas,10,15,0,56.9596,14
+stroll,2022,Montmeló,aston_martin,18,10,2,44.0858,15
+tsunoda,2022,Montmeló,alphatauri,13,12,10,49.20980000000001,10
+max_verstappen,2022,Montmeló,red_bull,2,1,85,69.053,1
+vettel,2022,Montmeló,aston_martin,16,17,4,44.0858,11
+zhou,2022,Montmeló,alfa,15,20,1,71.9328,19
+albon,2022,Monte-Carlo,williams,16,18,3,54.59499999999999,18
+alonso,2022,Monte-Carlo,alpine,7,9,4,54.32666666666666,7
+bottas,2022,Monte-Carlo,alfa,12,6,38,63.212999999999994,9
+gasly,2022,Monte-Carlo,alphatauri,17,13,6,53.84783333333334,11
+hamilton,2022,Monte-Carlo,mercedes,8,5,46,55.767500000000005,8
+latifi,2022,Monte-Carlo,williams,19,16,0,54.59499999999999,15
+leclerc,2022,Monte-Carlo,ferrari,1,20,104,58.0385,4
+kevin_magnussen,2022,Monte-Carlo,haas,13,17,15,63.00416666666666,20
+norris,2022,Monte-Carlo,mclaren,5,8,39,68.39116666666668,6
+ocon,2022,Monte-Carlo,alpine,10,7,30,54.32666666666666,12
+perez,2022,Monte-Carlo,red_bull,3,2,85,66.83583333333333,1
+ricciardo,2022,Monte-Carlo,mclaren,14,12,11,68.39116666666668,13
+russell,2022,Monte-Carlo,mercedes,6,3,74,55.767500000000005,5
+sainz,2022,Monte-Carlo,ferrari,2,4,65,58.0385,2
+mick_schumacher,2022,Monte-Carlo,haas,15,14,0,63.00416666666666,19
+stroll,2022,Monte-Carlo,aston_martin,18,15,2,43.22733333333334,14
+tsunoda,2022,Monte-Carlo,alphatauri,11,10,11,53.84783333333334,17
+max_verstappen,2022,Monte-Carlo,red_bull,4,1,110,66.83583333333333,3
+vettel,2022,Monte-Carlo,aston_martin,9,11,4,43.22733333333334,10
+zhou,2022,Monte-Carlo,alfa,20,19,1,63.212999999999994,16
+albon,2022,Baku,williams,17,18,3,69.80557142857141,12
+alonso,2022,Baku,alpine,10,7,10,66.11128571428571,7
+bottas,2022,Baku,alfa,15,9,40,63.98785714285714,11
+gasly,2022,Baku,alphatauri,6,11,6,66.15442857142857,5
+hamilton,2022,Baku,mercedes,7,8,50,68.14471428571429,4
+latifi,2022,Baku,williams,18,15,0,69.80557142857141,15
+leclerc,2022,Baku,ferrari,1,4,116,62.36214285714285,19
+kevin_magnussen,2022,Baku,haas,16,20,15,68.32057142857143,17
+norris,2022,Baku,mclaren,11,6,48,77.778,9
+ocon,2022,Baku,alpine,13,12,30,66.11128571428571,10
+perez,2022,Baku,red_bull,2,1,110,76.06285714285714,2
+ricciardo,2022,Baku,mclaren,12,13,11,77.778,8
+russell,2022,Baku,mercedes,5,5,84,68.14471428571429,3
+sainz,2022,Baku,ferrari,4,2,83,62.36214285714285,20
+mick_schumacher,2022,Baku,haas,20,19,0,68.32057142857143,14
+stroll,2022,Baku,aston_martin,19,14,2,53.48500000000001,16
+tsunoda,2022,Baku,alphatauri,8,17,11,66.15442857142857,13
+max_verstappen,2022,Baku,red_bull,3,3,125,76.06285714285714,1
+vettel,2022,Baku,aston_martin,9,10,5,53.48500000000001,6
+zhou,2022,Baku,alfa,14,16,1,63.98785714285714,18
+albon,2022,Montreal,williams,12,12,3,376.867125,13
+alonso,2022,Montreal,alpine,2,7,16,360.090375,9
+bottas,2022,Montreal,alfa,11,11,40,357.5385,7
+gasly,2022,Montreal,alphatauri,16,5,16,368.4495,14
+hamilton,2022,Montreal,mercedes,4,4,62,364.43674999999996,3
+latifi,2022,Montreal,williams,19,15,0,376.867125,16
+leclerc,2022,Montreal,ferrari,15,19,116,358.32,5
+kevin_magnussen,2022,Montreal,haas,5,17,15,67.841875,17
+norris,2022,Montreal,mclaren,14,9,50,374.555375,15
+ocon,2022,Montreal,alpine,7,10,31,360.090375,6
+perez,2022,Montreal,red_bull,13,2,129,372.870125,20
+ricciardo,2022,Montreal,mclaren,9,8,15,374.555375,11
+russell,2022,Montreal,mercedes,8,3,99,364.43674999999996,4
+sainz,2022,Montreal,ferrari,3,20,83,358.32,2
+mick_schumacher,2022,Montreal,haas,6,14,0,67.841875,19
+stroll,2022,Montreal,aston_martin,18,16,2,356.7605,10
+tsunoda,2022,Montreal,alphatauri,20,13,11,368.4495,18
+max_verstappen,2022,Montreal,red_bull,1,1,150,372.870125,1
+vettel,2022,Montreal,aston_martin,17,6,13,356.7605,12
+zhou,2022,Montreal,alfa,10,18,1,357.5385,8
+albon,2022,Silverstone,williams,16,13,3,345.94644444444447,20
+alonso,2022,Silverstone,alpine,7,9,18,324.8813333333333,5
+bottas,2022,Silverstone,alfa,12,7,46,322.69866666666667,17
+gasly,2022,Silverstone,alphatauri,11,14,16,337.20855555555556,16
+hamilton,2022,Silverstone,mercedes,5,3,77,333.20666666666665,3
+latifi,2022,Silverstone,williams,10,16,0,345.94644444444447,12
+leclerc,2022,Silverstone,ferrari,3,5,126,321.08577777777776,4
+kevin_magnussen,2022,Silverstone,haas,17,17,15,68.166,10
+norris,2022,Silverstone,mclaren,6,15,50,337.74222222222227,6
+ocon,2022,Silverstone,alpine,15,6,39,324.8813333333333,15
+perez,2022,Silverstone,red_bull,4,20,129,341.20877777777775,2
+ricciardo,2022,Silverstone,mclaren,14,11,15,337.74222222222227,13
+russell,2022,Silverstone,mercedes,8,4,111,333.20666666666665,18
+sainz,2022,Silverstone,ferrari,1,2,102,321.08577777777776,1
+mick_schumacher,2022,Silverstone,haas,19,19,0,68.166,8
+stroll,2022,Silverstone,aston_martin,20,10,3,321.8213333333333,11
+tsunoda,2022,Silverstone,alphatauri,13,18,11,337.20855555555556,14
+max_verstappen,2022,Silverstone,red_bull,2,1,175,341.20877777777775,7
+vettel,2022,Silverstone,aston_martin,18,12,13,321.8213333333333,9
+zhou,2022,Silverstone,alfa,9,8,5,322.69866666666667,19
+albon,2022,Spielberg,williams,11,20,3,321.4906,12
+alonso,2022,Spielberg,alpine,8,5,28,302.24789999999996,10
+bottas,2022,Spielberg,alfa,12,17,46,297.86379999999997,11
+gasly,2022,Spielberg,alphatauri,10,16,16,312.8745,15
+hamilton,2022,Spielberg,mercedes,9,3,93,309.4566,3
+latifi,2022,Spielberg,williams,19,12,0,321.4906,19
+leclerc,2022,Spielberg,ferrari,2,4,138,296.5067,1
+kevin_magnussen,2022,Spielberg,haas,6,10,16,65.1756,8
+norris,2022,Spielberg,mclaren,15,6,58,315.96160000000003,7
+ocon,2022,Spielberg,alpine,5,15,39,302.24789999999996,5
+perez,2022,Spielberg,red_bull,13,2,147,311.88,20
+ricciardo,2022,Spielberg,mclaren,16,13,15,315.96160000000003,9
+russell,2022,Spielberg,mercedes,4,18,111,309.4566,4
+sainz,2022,Spielberg,ferrari,3,1,127,296.5067,18
+mick_schumacher,2022,Spielberg,haas,7,8,4,65.1756,6
+stroll,2022,Spielberg,aston_martin,17,11,3,296.87309999999997,13
+tsunoda,2022,Spielberg,alphatauri,14,14,11,312.8745,16
+max_verstappen,2022,Spielberg,red_bull,1,7,181,311.88,2
+vettel,2022,Spielberg,aston_martin,20,9,15,296.87309999999997,17
+zhou,2022,Spielberg,alfa,18,19,5,297.86379999999997,14
+albon,2022,Le Castellet,williams,15,12,3,574.9160909090909,13
+alonso,2022,Le Castellet,alpine,7,10,29,828.805,6
+bottas,2022,Le Castellet,alfa,13,11,46,548.579090909091,14
+gasly,2022,Le Castellet,alphatauri,16,15,16,843.945,12
+hamilton,2022,Le Castellet,mercedes,4,3,109,563.6624545454546,2
+latifi,2022,Le Castellet,williams,20,19,0,574.9160909090909,17
+leclerc,2022,Le Castellet,ferrari,1,1,170,828.9993636363637,19
+kevin_magnussen,2022,Le Castellet,haas,10,8,22,624.5450000000001,18
+norris,2022,Le Castellet,mclaren,5,7,64,855.8142727272727,7
+ocon,2022,Le Castellet,alpine,12,5,52,828.805,8
+perez,2022,Le Castellet,red_bull,3,20,151,849.4319999999999,4
+ricciardo,2022,Le Castellet,mclaren,11,9,17,855.8142727272727,9
+russell,2022,Le Castellet,mercedes,6,4,128,563.6624545454546,3
+sainz,2022,Le Castellet,ferrari,9,18,133,828.9993636363637,5
+mick_schumacher,2022,Le Castellet,haas,19,6,12,624.5450000000001,15
+stroll,2022,Le Castellet,aston_martin,17,13,3,838.3497272727271,10
+tsunoda,2022,Le Castellet,alphatauri,8,16,11,843.945,20
+max_verstappen,2022,Le Castellet,red_bull,2,2,208,849.4319999999999,1
+vettel,2022,Le Castellet,aston_martin,14,17,15,838.3497272727271,11
+zhou,2022,Le Castellet,alfa,18,14,5,548.579090909091,16
+albon,2022,Budapest,williams,17,13,3,534.2856666666667,17
+alonso,2022,Budapest,alpine,6,6,37,769.0291666666667,8
+bottas,2022,Budapest,alfa,8,14,46,511.07408333333336,20
+gasly,2022,Budapest,alphatauri,19,12,16,781.4164166666668,12
+hamilton,2022,Budapest,mercedes,7,2,127,525.4951666666667,2
+latifi,2022,Budapest,williams,20,17,0,534.2856666666667,18
+leclerc,2022,Budapest,ferrari,3,19,170,768.8498333333333,6
+kevin_magnussen,2022,Budapest,haas,13,18,22,579.9406666666667,16
+norris,2022,Budapest,mclaren,4,7,70,792.2675,7
+ocon,2022,Budapest,alpine,5,8,56,769.0291666666667,9
+perez,2022,Budapest,red_bull,11,4,163,786.0181666666666,5
+ricciardo,2022,Budapest,mclaren,9,9,19,792.2675,15
+russell,2022,Budapest,mercedes,1,3,143,525.4951666666667,3
+sainz,2022,Budapest,ferrari,2,5,144,768.8498333333333,4
+mick_schumacher,2022,Budapest,haas,15,15,12,579.9406666666667,14
+stroll,2022,Budapest,aston_martin,14,10,4,775.7437499999997,11
+tsunoda,2022,Budapest,alphatauri,16,20,11,781.4164166666668,19
+max_verstappen,2022,Budapest,red_bull,10,1,233,786.0181666666666,1
+vettel,2022,Budapest,aston_martin,18,11,15,775.7437499999997,10
+zhou,2022,Budapest,alfa,12,16,5,511.07408333333336,13
+albon,2022,Spa,williams,9,17,3,501.7882307692308,10
+alonso,2022,Spa,alpine,6,8,41,716.1246923076924,5
+bottas,2022,Spa,alfa,20,20,46,484.1921538461539,19
+gasly,2022,Spa,alphatauri,12,12,16,726.9703076923078,9
+hamilton,2022,Spa,mercedes,7,2,146,490.8775384615385,20
+latifi,2022,Spa,williams,17,18,0,501.7882307692308,18
+leclerc,2022,Spa,ferrari,4,6,178,716.1498461538462,6
+kevin_magnussen,2022,Spa,haas,18,16,22,546.629,16
+norris,2022,Spa,mclaren,10,7,76,737.0010000000001,12
+ocon,2022,Spa,alpine,5,9,58,716.1246923076924,7
+perez,2022,Spa,red_bull,3,5,173,731.1957692307691,2
+ricciardo,2022,Spa,mclaren,11,15,19,737.0010000000001,15
+russell,2022,Spa,mercedes,8,3,158,490.8775384615385,4
+sainz,2022,Spa,ferrari,2,4,156,716.1498461538462,3
+mick_schumacher,2022,Spa,haas,15,14,12,546.629,17
+stroll,2022,Spa,aston_martin,14,11,4,721.9569230769229,11
+tsunoda,2022,Spa,alphatauri,19,19,11,726.9703076923078,13
+max_verstappen,2022,Spa,red_bull,1,1,258,731.1957692307691,1
+vettel,2022,Spa,aston_martin,16,10,16,721.9569230769229,8
+zhou,2022,Spa,alfa,13,13,5,484.1921538461539,14
+albon,2022,Zandvoort,williams,15,10,4,476.69135714285716,12
+alonso,2022,Zandvoort,alpine,13,5,51,668.234642857143,6
+bottas,2022,Zandvoort,alfa,16,19,46,454.8077857142857,19
+gasly,2022,Zandvoort,alphatauri,11,9,18,682.8213571428572,11
+hamilton,2022,Zandvoort,mercedes,4,20,146,462.122,4
+latifi,2022,Zandvoort,williams,20,18,0,476.69135714285716,18
+leclerc,2022,Zandvoort,ferrari,2,6,186,672.9653571428571,3
+kevin_magnussen,2022,Zandvoort,haas,18,16,22,516.2638571428572,15
+norris,2022,Zandvoort,mclaren,7,12,76,690.6795714285715,7
+ocon,2022,Zandvoort,alpine,12,7,64,668.234642857143,9
+perez,2022,Zandvoort,red_bull,5,2,191,685.0292142857141,5
+ricciardo,2022,Zandvoort,mclaren,17,15,19,690.6795714285715,17
+russell,2022,Zandvoort,mercedes,6,4,170,462.122,2
+sainz,2022,Zandvoort,ferrari,3,3,171,672.9653571428571,8
+mick_schumacher,2022,Zandvoort,haas,8,17,12,516.2638571428572,13
+stroll,2022,Zandvoort,aston_martin,10,11,4,676.804714285714,10
+tsunoda,2022,Zandvoort,alphatauri,9,13,11,682.8213571428572,20
+max_verstappen,2022,Zandvoort,red_bull,1,1,284,685.0292142857141,1
+vettel,2022,Zandvoort,aston_martin,19,8,20,676.804714285714,14
+zhou,2022,Zandvoort,alfa,14,14,5,454.8077857142857,16
+alonso,2022,Monza,alpine,10,6,59,629.9254666666668,19
+bottas,2022,Monza,alfa,12,19,46,427.62780000000004,13
+de_vries,2022,Monza,williams,13,,,333.29213333333337,9
+gasly,2022,Monza,alphatauri,9,11,18,643.9470666666668,8
+hamilton,2022,Monza,mercedes,5,4,158,434.36733333333336,5
+latifi,2022,Monza,williams,16,18,0,333.29213333333337,15
+leclerc,2022,Monza,ferrari,1,3,201,635.8352666666666,2
+kevin_magnussen,2022,Monza,haas,19,15,22,488.4696666666667,16
+norris,2022,Monza,mclaren,7,7,82,650.8227333333333,7
+ocon,2022,Monza,alpine,11,9,66,629.9254666666668,11
+perez,2022,Monza,red_bull,4,5,201,645.3741333333331,6
+ricciardo,2022,Monza,mclaren,8,17,19,650.8227333333333,17
+russell,2022,Monza,mercedes,6,2,188,434.36733333333336,3
+sainz,2022,Monza,ferrari,3,8,175,635.8352666666666,4
+mick_schumacher,2022,Monza,haas,20,13,12,488.4696666666667,12
+stroll,2022,Monza,aston_martin,18,10,5,637.8816666666664,18
+tsunoda,2022,Monza,alphatauri,15,20,11,643.9470666666668,14
+max_verstappen,2022,Monza,red_bull,2,1,310,645.3741333333331,1
+vettel,2022,Monza,aston_martin,17,14,20,637.8816666666664,20
+zhou,2022,Monza,alfa,14,16,5,427.62780000000004,10
+albon,2022,Marina Bay,williams,19,,4,434.63875,17
+alonso,2022,Marina Bay,alpine,5,19,59,597.5513125000001,18
+bottas,2022,Marina Bay,alfa,16,13,46,408.40650000000005,11
+gasly,2022,Marina Bay,alphatauri,7,8,22,613.7494375000001,10
+hamilton,2022,Marina Bay,mercedes,3,5,168,414.3336875,9
+latifi,2022,Marina Bay,williams,20,15,0,434.63875,19
+leclerc,2022,Marina Bay,ferrari,1,2,219,604.9774375,2
+kevin_magnussen,2022,Marina Bay,haas,9,16,22,468.277,12
+norris,2022,Marina Bay,mclaren,6,7,88,619.85275,4
+ocon,2022,Marina Bay,alpine,18,11,66,597.5513125000001,16
+perez,2022,Marina Bay,red_bull,2,6,210,614.0349999999999,1
+ricciardo,2022,Marina Bay,mclaren,17,17,19,619.85275,5
+russell,2022,Marina Bay,mercedes,11,3,203,414.3336875,14
+sainz,2022,Marina Bay,ferrari,4,4,187,604.9774375,3
+mick_schumacher,2022,Marina Bay,haas,13,12,12,468.277,13
+stroll,2022,Marina Bay,aston_martin,12,18,5,607.2817499999998,6
+tsunoda,2022,Marina Bay,alphatauri,10,14,11,613.7494375000001,15
+max_verstappen,2022,Marina Bay,red_bull,8,1,335,614.0349999999999,7
+vettel,2022,Marina Bay,aston_martin,14,20,20,607.2817499999998,8
+zhou,2022,Marina Bay,alfa,15,10,6,408.40650000000005,20
+albon,2022,Suzuka,williams,16,17,4,412.0744117647059,20
+alonso,2022,Suzuka,alpine,7,18,59,563.8327647058824,7
+bottas,2022,Suzuka,alfa,12,11,46,387.3310588235295,15
+gasly,2022,Suzuka,alphatauri,17,10,23,581.9576470588237,18
+hamilton,2022,Suzuka,mercedes,6,9,170,394.28294117647056,5
+latifi,2022,Suzuka,williams,20,19,0,412.0744117647059,9
+leclerc,2022,Suzuka,ferrari,2,2,237,576.4144705882352,3
+kevin_magnussen,2022,Suzuka,haas,18,12,22,445.427,14
+norris,2022,Suzuka,mclaren,10,4,100,587.9003529411765,10
+ocon,2022,Suzuka,alpine,5,16,66,563.8327647058824,4
+perez,2022,Suzuka,red_bull,4,1,235,583.4964117647058,2
+ricciardo,2022,Suzuka,mclaren,11,5,29,587.9003529411765,11
+russell,2022,Suzuka,mercedes,8,14,203,394.28294117647056,8
+sainz,2022,Suzuka,ferrari,3,3,202,576.4144705882352,19
+mick_schumacher,2022,Suzuka,haas,15,13,12,445.427,17
+stroll,2022,Suzuka,aston_martin,19,6,13,572.9859999999999,12
+tsunoda,2022,Suzuka,alphatauri,13,15,11,581.9576470588237,13
+max_verstappen,2022,Suzuka,red_bull,1,7,341,583.4964117647058,1
+vettel,2022,Suzuka,aston_martin,9,8,24,572.9859999999999,6
+zhou,2022,Suzuka,alfa,14,20,6,387.3310588235295,16
+albon,2022,Austin,williams,11,20,4,389.18138888888893,13
+alonso,2022,Austin,alpine,9,7,65,532.5087222222223,7
+bottas,2022,Austin,alfa,10,15,46,367.5997222222223,19
+gasly,2022,Austin,alphatauri,13,18,23,553.0244444444446,14
+hamilton,2022,Austin,mercedes,5,5,180,381.5013333333333,2
+latifi,2022,Austin,williams,20,9,2,389.18138888888893,17
+leclerc,2022,Austin,ferrari,2,3,252,547.872611111111,3
+kevin_magnussen,2022,Austin,haas,16,14,22,428.33511111111113,9
+norris,2022,Austin,mclaren,8,10,101,558.6544444444445,6
+ocon,2022,Austin,alpine,18,4,78,532.5087222222223,11
+perez,2022,Austin,red_bull,4,2,253,556.0094999999999,4
+ricciardo,2022,Austin,mclaren,17,11,29,558.6544444444445,16
+russell,2022,Austin,mercedes,6,8,207,381.5013333333333,5
+sainz,2022,Austin,ferrari,1,19,202,547.872611111111,20
+mick_schumacher,2022,Austin,haas,19,17,12,428.33511111111113,15
+stroll,2022,Austin,aston_martin,7,12,13,544.462722222222,18
+tsunoda,2022,Austin,alphatauri,15,13,11,553.0244444444446,10
+max_verstappen,2022,Austin,red_bull,3,1,366,556.0094999999999,1
+vettel,2022,Austin,aston_martin,12,6,32,544.462722222222,8
+zhou,2022,Austin,alfa,14,16,6,367.5997222222223,12
+albon,2022,Mexico City,williams,19,13,4,391.4591052631579,12
+alonso,2022,Mexico City,alpine,9,7,71,549.9471578947368,19
+bottas,2022,Mexico City,alfa,6,19,46,395.1605789473685,10
+gasly,2022,Mexico City,alphatauri,14,14,23,573.9144736842106,11
+hamilton,2022,Mexico City,mercedes,3,2,198,406.23010526315784,2
+latifi,2022,Mexico City,williams,20,17,2,391.4591052631579,18
+leclerc,2022,Mexico City,ferrari,7,3,267,540.9252105263157,6
+kevin_magnussen,2022,Mexico City,haas,15,9,24,450.6905263157895,17
+norris,2022,Mexico City,mclaren,8,6,109,574.4082631578948,9
+ocon,2022,Mexico City,alpine,10,11,78,549.9471578947368,8
+perez,2022,Mexico City,red_bull,4,4,265,570.4061578947368,3
+ricciardo,2022,Mexico City,mclaren,11,16,29,574.4082631578948,7
+russell,2022,Mexico City,mercedes,2,5,218,406.23010526315784,4
+sainz,2022,Mexico City,ferrari,5,20,202,540.9252105263157,5
+mick_schumacher,2022,Mexico City,haas,16,15,12,450.6905263157895,16
+stroll,2022,Mexico City,aston_martin,18,18,13,562.2385263157893,15
+tsunoda,2022,Mexico City,alphatauri,13,10,12,573.9144736842106,20
+max_verstappen,2022,Mexico City,red_bull,1,1,391,570.4061578947368,1
+vettel,2022,Mexico City,aston_martin,17,8,36,562.2385263157893,14
+zhou,2022,Mexico City,alfa,12,12,6,395.1605789473685,13
+albon,2022,São Paulo,williams,11,12,4,376.8087,15
+alonso,2022,São Paulo,alpine,7,19,71,528.105,5
+bottas,2022,São Paulo,alfa,18,10,47,379.2702500000001,9
+gasly,2022,São Paulo,alphatauri,12,11,23,550.1946,14
+hamilton,2022,São Paulo,mercedes,8,2,216,392.26815,2
+latifi,2022,São Paulo,williams,16,18,2,376.8087,16
+leclerc,2022,São Paulo,ferrari,10,6,275,516.2823999999998,4
+kevin_magnussen,2022,São Paulo,haas,1,17,24,432.10095,19
+norris,2022,São Paulo,mclaren,4,9,111,550.6063500000001,18
+ocon,2022,São Paulo,alpine,6,8,82,528.105,8
+perez,2022,São Paulo,red_bull,9,3,280,547.10205,7
+ricciardo,2022,São Paulo,mclaren,14,7,35,550.6063500000001,20
+russell,2022,São Paulo,mercedes,3,4,231,392.26815,1
+sainz,2022,São Paulo,ferrari,5,5,212,516.2823999999998,3
+mick_schumacher,2022,São Paulo,haas,20,16,12,432.10095,13
+stroll,2022,São Paulo,aston_martin,15,15,13,538.5206499999997,10
+tsunoda,2022,São Paulo,alphatauri,19,20,12,550.1946,17
+max_verstappen,2022,São Paulo,red_bull,2,1,416,547.10205,6
+vettel,2022,São Paulo,aston_martin,13,14,36,538.5206499999997,11
+zhou,2022,São Paulo,alfa,17,13,6,379.2702500000001,12
+albon,2022,Abu Dhabi,williams,19,15,4,362.248619047619,13
+alonso,2022,Abu Dhabi,alpine,11,5,81,505.1239047619048,20
+bottas,2022,Abu Dhabi,alfa,18,9,49,363.4993333333334,15
+gasly,2022,Abu Dhabi,alphatauri,17,14,23,526.4537142857143,14
+hamilton,2022,Abu Dhabi,mercedes,5,2,240,376.8795238095238,18
+latifi,2022,Abu Dhabi,williams,20,16,2,362.248619047619,19
+leclerc,2022,Abu Dhabi,ferrari,3,4,290,493.87190476190466,2
+kevin_magnussen,2022,Abu Dhabi,haas,16,19,25,413.78190476190474,17
+norris,2022,Abu Dhabi,mclaren,7,18,113,526.5234285714287,6
+ocon,2022,Abu Dhabi,alpine,8,8,86,505.1239047619048,7
+perez,2022,Abu Dhabi,red_bull,2,7,290,523.3057142857143,3
+ricciardo,2022,Abu Dhabi,mclaren,10,20,35,526.5234285714287,9
+russell,2022,Abu Dhabi,mercedes,6,1,265,376.8795238095238,5
+sainz,2022,Abu Dhabi,ferrari,4,3,234,493.87190476190466,4
+mick_schumacher,2022,Abu Dhabi,haas,13,13,12,413.78190476190474,16
+stroll,2022,Abu Dhabi,aston_martin,14,10,14,516.1702380952379,8
+tsunoda,2022,Abu Dhabi,alphatauri,12,17,12,526.4537142857143,11
+max_verstappen,2022,Abu Dhabi,red_bull,1,6,429,523.3057142857143,1
+vettel,2022,Abu Dhabi,aston_martin,9,11,36,516.1702380952379,10
+zhou,2022,Abu Dhabi,alfa,15,12,6,363.4993333333334,12
+albon,2023,Melbourne,williams,8,19,1,75.3745,19
+alonso,2023,Melbourne,aston_martin,4,3,30,50.3785,3
+bottas,2023,Melbourne,alfa,19,18,4,66.13900000000001,11
+de_vries,2023,Melbourne,alphatauri,15,14,0,62.854499999999994,15
+gasly,2023,Melbourne,alpine,9,9,4,93.223,13
+hamilton,2023,Melbourne,mercedes,3,5,20,50.42,2
+hulkenberg,2023,Melbourne,haas,10,12,0,83.416,7
+leclerc,2023,Melbourne,ferrari,7,7,6,48.858000000000004,20
+kevin_magnussen,2023,Melbourne,haas,14,10,1,83.416,17
+norris,2023,Melbourne,mclaren,13,17,0,97.667,6
+ocon,2023,Melbourne,alpine,11,8,4,93.223,14
+perez,2023,Melbourne,red_bull,20,1,43,49.277,5
+piastri,2023,Melbourne,mclaren,16,15,0,97.667,8
+russell,2023,Melbourne,mercedes,2,4,18,50.42,18
+sainz,2023,Melbourne,ferrari,5,6,20,48.858000000000004,12
+sargeant,2023,Melbourne,williams,18,16,0,75.3745,16
+stroll,2023,Melbourne,aston_martin,6,20,8,50.3785,4
+tsunoda,2023,Melbourne,alphatauri,12,11,0,62.854499999999994,10
+max_verstappen,2023,Melbourne,red_bull,1,2,44,49.277,1
+zhou,2023,Melbourne,alfa,17,13,0,66.13900000000001,9
+albon,2023,Baku,williams,13,19,1,64.40333333333332,12
+alonso,2023,Baku,aston_martin,6,3,45,49.595333333333336,4
+bottas,2023,Baku,alfa,14,11,4,80.25566666666667,18
+de_vries,2023,Baku,alphatauri,20,15,0,56.07966666666666,20
+gasly,2023,Baku,alpine,19,13,4,75.97566666666667,14
+hamilton,2023,Baku,mercedes,5,2,38,47.59,6
+hulkenberg,2023,Baku,haas,17,7,6,69.75633333333333,17
+leclerc,2023,Baku,ferrari,1,20,6,46.16733333333334,3
+kevin_magnussen,2023,Baku,haas,18,17,1,69.75633333333333,13
+norris,2023,Baku,mclaren,7,6,8,92.55466666666666,9
+ocon,2023,Baku,alpine,12,14,4,75.97566666666667,15
+perez,2023,Baku,red_bull,3,5,54,46.69766666666667,1
+piastri,2023,Baku,mclaren,10,8,4,92.55466666666666,11
+russell,2023,Baku,mercedes,11,18,18,47.59,8
+sainz,2023,Baku,ferrari,4,12,20,46.16733333333334,5
+sargeant,2023,Baku,williams,15,16,0,64.40333333333332,16
+stroll,2023,Baku,aston_martin,9,4,20,49.595333333333336,7
+tsunoda,2023,Baku,alphatauri,8,10,1,56.07966666666666,10
+max_verstappen,2023,Baku,red_bull,2,1,69,46.69766666666667,2
+zhou,2023,Baku,alfa,16,9,2,80.25566666666667,19
+albon,2023,Miami,williams,11,12,1,498.5017500000001,14
+alonso,2023,Miami,aston_martin,2,4,60,1860.82625,3
+bottas,2023,Miami,alfa,10,18,4,1897.06175,13
+de_vries,2023,Miami,alphatauri,15,20,0,1396.82925,18
+gasly,2023,Miami,alpine,5,14,4,966.4805,8
+hamilton,2023,Miami,mercedes,13,6,48,1187.2565,6
+hulkenberg,2023,Miami,haas,12,17,6,1211.59475,15
+leclerc,2023,Miami,ferrari,7,3,28,957.58075,7
+kevin_magnussen,2023,Miami,haas,4,13,1,1211.59475,10
+norris,2023,Miami,mclaren,16,9,10,1910.61,17
+ocon,2023,Miami,alpine,8,15,4,966.4805,9
+perez,2023,Miami,red_bull,1,1,87,1873.119,2
+piastri,2023,Miami,mclaren,19,11,4,1910.61,19
+russell,2023,Miami,mercedes,6,8,28,1187.2565,4
+sainz,2023,Miami,ferrari,3,5,34,957.58075,5
+sargeant,2023,Miami,williams,20,16,0,498.5017500000001,20
+stroll,2023,Miami,aston_martin,18,7,27,1860.82625,12
+tsunoda,2023,Miami,alphatauri,17,10,2,1396.82925,11
+max_verstappen,2023,Miami,red_bull,9,2,93,1873.119,1
+zhou,2023,Miami,alfa,14,19,2,1897.06175,16
+albon,2023,Monte-Carlo,williams,13,14,1,407.225,14
+alonso,2023,Monte-Carlo,aston_martin,2,3,75,1497.9228,2
+bottas,2023,Monte-Carlo,alfa,15,13,4,1534.9654,11
+de_vries,2023,Monte-Carlo,alphatauri,12,18,0,1121.5628000000002,12
+gasly,2023,Monte-Carlo,alpine,7,8,8,785.5386000000001,7
+hamilton,2023,Monte-Carlo,mercedes,6,6,56,962.2395999999999,4
+hulkenberg,2023,Monte-Carlo,haas,18,15,6,980.4155999999999,17
+leclerc,2023,Monte-Carlo,ferrari,3,7,34,774.6838,6
+kevin_magnussen,2023,Monte-Carlo,haas,17,10,2,980.4155999999999,19
+norris,2023,Monte-Carlo,mclaren,10,17,10,1536.7376,9
+ocon,2023,Monte-Carlo,alpine,4,9,6,785.5386000000001,3
+perez,2023,Monte-Carlo,red_bull,20,2,105,1506.7144,16
+piastri,2023,Monte-Carlo,mclaren,11,19,4,1536.7376,10
+russell,2023,Monte-Carlo,mercedes,8,4,40,962.2395999999999,5
+sainz,2023,Monte-Carlo,ferrari,5,5,44,774.6838,8
+sargeant,2023,Monte-Carlo,williams,16,20,0,407.225,18
+stroll,2023,Monte-Carlo,aston_martin,14,12,27,1497.9228,20
+tsunoda,2023,Monte-Carlo,alphatauri,9,11,2,1121.5628000000002,15
+max_verstappen,2023,Monte-Carlo,red_bull,1,1,119,1506.7144,1
+zhou,2023,Monte-Carlo,alfa,19,16,2,1534.9654,13
+albon,2023,Montmeló,williams,18,14,1,351.2575,16
+alonso,2023,Montmeló,aston_martin,9,2,93,1255.816,7
+bottas,2023,Montmeló,alfa,16,11,4,1286.7968333333333,19
+de_vries,2023,Montmeló,alphatauri,14,12,0,942.2818333333335,14
+gasly,2023,Montmeló,alpine,4,7,14,662.0086666666667,10
+hamilton,2023,Montmeló,mercedes,5,4,69,809.2804999999998,2
+hulkenberg,2023,Montmeló,haas,8,17,6,824.6356666666666,15
+leclerc,2023,Montmeló,ferrari,19,6,42,652.9608333333333,11
+kevin_magnussen,2023,Montmeló,haas,17,19,2,824.6356666666666,18
+norris,2023,Montmeló,mclaren,3,9,12,1288.3304999999998,17
+ocon,2023,Montmeló,alpine,7,3,21,662.0086666666667,8
+perez,2023,Montmeló,red_bull,11,16,105,1263.0240000000001,4
+piastri,2023,Montmeló,mclaren,10,10,5,1288.3304999999998,13
+russell,2023,Montmeló,mercedes,12,5,50,809.2804999999998,3
+sainz,2023,Montmeló,ferrari,2,8,48,652.9608333333333,5
+sargeant,2023,Montmeló,williams,20,18,0,351.2575,20
+stroll,2023,Montmeló,aston_martin,6,20,27,1255.816,6
+tsunoda,2023,Montmeló,alphatauri,15,15,2,942.2818333333335,12
+max_verstappen,2023,Montmeló,red_bull,1,1,144,1263.0240000000001,1
+zhou,2023,Montmeló,alfa,13,13,2,1286.7968333333333,9
+albon,2023,Montreal,williams,10,16,1,319.5601428571429,7
+alonso,2023,Montreal,aston_martin,3,7,99,1087.126,2
+bottas,2023,Montreal,alfa,15,19,4,1114.653857142857,10
+de_vries,2023,Montreal,alphatauri,18,14,0,815.9908571428572,18
+gasly,2023,Montreal,alpine,17,10,15,582.349,12
+hamilton,2023,Montreal,mercedes,4,2,87,705.4202857142856,3
+hulkenberg,2023,Montreal,haas,2,15,6,727.3938571428571,15
+leclerc,2023,Montreal,ferrari,11,11,42,574.4602857142856,4
+kevin_magnussen,2023,Montreal,haas,14,18,2,727.3938571428571,17
+norris,2023,Montreal,mclaren,7,17,12,1116.2749999999999,13
+ocon,2023,Montreal,alpine,6,8,25,582.349,8
+perez,2023,Montreal,red_bull,12,4,117,1105.6568571428572,6
+piastri,2023,Montreal,mclaren,9,13,5,1116.2749999999999,11
+russell,2023,Montreal,mercedes,5,3,65,705.4202857142856,19
+sainz,2023,Montreal,ferrari,8,5,58,574.4602857142856,5
+sargeant,2023,Montreal,williams,19,20,0,319.5601428571429,20
+stroll,2023,Montreal,aston_martin,13,6,35,1087.126,9
+tsunoda,2023,Montreal,alphatauri,16,12,2,815.9908571428572,14
+max_verstappen,2023,Montreal,red_bull,1,1,170,1105.6568571428572,1
+zhou,2023,Montreal,alfa,20,9,4,1114.653857142857,16
+albon,2023,Spielberg,williams,10,7,7,291.262375,11
+alonso,2023,Spielberg,aston_martin,7,2,117,962.6327500000001,5
+bottas,2023,Spielberg,alfa,14,10,5,987.0855,15
+de_vries,2023,Spielberg,alphatauri,20,18,0,725.0773750000001,17
+gasly,2023,Spielberg,alpine,9,12,15,521.2078750000001,10
+hamilton,2023,Spielberg,mercedes,5,3,102,628.4471249999999,8
+hulkenberg,2023,Spielberg,haas,8,15,6,653.8763749999999,20
+leclerc,2023,Spielberg,ferrari,2,4,54,513.837375,2
+kevin_magnussen,2023,Spielberg,haas,19,17,2,653.8763749999999,18
+norris,2023,Spielberg,mclaren,4,13,12,992.7256249999999,4
+ocon,2023,Spielberg,alpine,12,8,29,521.2078750000001,14
+perez,2023,Spielberg,red_bull,15,6,126,978.4385,3
+piastri,2023,Spielberg,mclaren,13,11,5,992.7256249999999,16
+russell,2023,Spielberg,mercedes,11,19,65,628.4471249999999,7
+sainz,2023,Spielberg,ferrari,3,5,68,513.837375,6
+sargeant,2023,Spielberg,williams,18,20,0,291.262375,13
+stroll,2023,Spielberg,aston_martin,6,9,37,962.6327500000001,9
+tsunoda,2023,Spielberg,alphatauri,16,14,2,725.0773750000001,19
+max_verstappen,2023,Spielberg,red_bull,1,1,195,978.4385,1
+zhou,2023,Spielberg,alfa,17,16,4,987.0855,12
+albon,2023,Silverstone,williams,8,11,7,261.68477777777775,8
+alonso,2023,Silverstone,aston_martin,9,5,131,866.2856666666668,7
+bottas,2023,Silverstone,alfa,15,15,5,885.8213333333333,12
+de_vries,2023,Silverstone,alphatauri,19,17,0,655.6148888888889,17
+gasly,2023,Silverstone,alpine,10,10,16,474.37722222222226,18
+hamilton,2023,Silverstone,mercedes,7,8,106,573.8453333333332,3
+hulkenberg,2023,Silverstone,haas,11,20,9,592.1683333333333,13
+leclerc,2023,Silverstone,ferrari,4,2,72,462.1305555555555,9
+kevin_magnussen,2023,Silverstone,haas,20,18,2,592.1683333333333,19
+norris,2023,Silverstone,mclaren,2,4,24,893.2778888888888,2
+ocon,2023,Silverstone,alpine,13,14,31,474.37722222222226,20
+perez,2023,Silverstone,red_bull,16,3,148,880.1734444444444,6
+piastri,2023,Silverstone,mclaren,3,16,5,893.2778888888888,4
+russell,2023,Silverstone,mercedes,6,7,72,573.8453333333332,5
+sainz,2023,Silverstone,ferrari,5,6,82,462.1305555555555,10
+sargeant,2023,Silverstone,williams,14,13,0,261.68477777777775,11
+stroll,2023,Silverstone,aston_martin,12,9,44,866.2856666666668,14
+tsunoda,2023,Silverstone,alphatauri,17,19,2,655.6148888888889,16
+max_verstappen,2023,Silverstone,red_bull,1,1,229,880.1734444444444,1
+zhou,2023,Silverstone,alfa,18,12,4,885.8213333333333,15
+albon,2023,Budapest,williams,16,8,11,248.3219,11
+alonso,2023,Budapest,aston_martin,8,7,137,794.24,9
+bottas,2023,Budapest,alfa,7,12,5,810.7032999999999,12
+gasly,2023,Budapest,alpine,15,18,16,440.5991,20
+hamilton,2023,Budapest,mercedes,1,3,121,529.265,4
+hulkenberg,2023,Budapest,haas,10,13,9,544.2674999999999,14
+leclerc,2023,Budapest,ferrari,6,9,74,429.1708999999999,7
+kevin_magnussen,2023,Budapest,haas,19,19,2,544.2674999999999,17
+norris,2023,Budapest,mclaren,3,2,42,819.2971,2
+ocon,2023,Budapest,alpine,12,20,31,440.5991,19
+perez,2023,Budapest,red_bull,9,6,156,806.2614,3
+piastri,2023,Budapest,mclaren,4,4,17,819.2971,5
+ricciardo,2023,Budapest,alphatauri,13,,,402.65399999999994,13
+russell,2023,Budapest,mercedes,18,5,82,529.265,6
+sainz,2023,Budapest,ferrari,11,10,83,429.1708999999999,8
+sargeant,2023,Budapest,williams,20,11,0,248.3219,18
+stroll,2023,Budapest,aston_martin,14,14,44,794.24,10
+tsunoda,2023,Budapest,alphatauri,17,16,2,402.65399999999994,15
+max_verstappen,2023,Budapest,red_bull,2,1,255,806.2614,1
+zhou,2023,Budapest,alfa,5,15,4,810.7032999999999,16
+albon,2023,Spa,williams,16,11,11,231.0636363636364,14
+alonso,2023,Spa,aston_martin,9,9,139,727.24,5
+bottas,2023,Spa,alfa,14,12,5,748.0868181818182,12
+gasly,2023,Spa,alpine,12,20,16,403.13172727272723,11
+hamilton,2023,Spa,mercedes,4,4,133,486.4794545454545,4
+hulkenberg,2023,Spa,haas,20,14,9,501.33181818181816,18
+leclerc,2023,Spa,ferrari,2,7,80,397.9660909090908,3
+kevin_magnussen,2023,Spa,haas,13,17,2,501.33181818181816,15
+norris,2023,Spa,mclaren,7,2,60,750.0058181818182,7
+ocon,2023,Spa,alpine,15,19,31,403.13172727272723,8
+perez,2023,Spa,red_bull,3,3,171,738.1572727272727,2
+piastri,2023,Spa,mclaren,6,5,27,750.0058181818182,20
+ricciardo,2023,Spa,alphatauri,19,13,0,371.22690909090903,16
+russell,2023,Spa,mercedes,8,6,90,486.4794545454545,6
+sainz,2023,Spa,ferrari,5,8,87,397.9660909090908,19
+sargeant,2023,Spa,williams,18,18,0,231.0636363636364,17
+stroll,2023,Spa,aston_martin,10,10,45,727.24,9
+tsunoda,2023,Spa,alphatauri,11,15,2,371.22690909090903,10
+max_verstappen,2023,Spa,red_bull,1,1,281,738.1572727272727,1
+zhou,2023,Spa,alfa,17,16,4,748.0868181818182,13
+albon,2023,Zandvoort,williams,4,14,11,219.31133333333335,8
+alonso,2023,Zandvoort,aston_martin,5,5,149,674.25175,2
+bottas,2023,Zandvoort,alfa,19,12,5,693.8645833333334,14
+gasly,2023,Zandvoort,alpine,12,11,22,369.5374166666666,3
+hamilton,2023,Zandvoort,mercedes,13,4,148,453.2114166666666,6
+hulkenberg,2023,Zandvoort,haas,15,18,9,467.036,12
+lawson,2023,Zandvoort,alphatauri,20,,,344.23724999999996,13
+leclerc,2023,Zandvoort,ferrari,9,3,99,372.5779999999999,19
+kevin_magnussen,2023,Zandvoort,haas,18,15,2,467.036,16
+norris,2023,Zandvoort,mclaren,2,7,69,694.6863333333334,7
+ocon,2023,Zandvoort,alpine,17,8,35,369.5374166666666,10
+perez,2023,Zandvoort,red_bull,7,2,189,683.7965833333333,4
+piastri,2023,Zandvoort,mclaren,8,20,34,694.6863333333334,9
+russell,2023,Zandvoort,mercedes,3,6,99,453.2114166666666,17
+sainz,2023,Zandvoort,ferrari,6,19,92,372.5779999999999,5
+sargeant,2023,Zandvoort,williams,10,17,0,219.31133333333335,20
+stroll,2023,Zandvoort,aston_martin,11,9,47,674.25175,11
+tsunoda,2023,Zandvoort,alphatauri,14,10,3,344.23724999999996,15
+max_verstappen,2023,Zandvoort,red_bull,1,1,314,683.7965833333333,1
+zhou,2023,Zandvoort,alfa,16,13,4,693.8645833333334,18
+albon,2023,Monza,williams,6,8,15,213.4225384615385,7
+alonso,2023,Monza,aston_martin,10,2,168,627.9462307692309,9
+bottas,2023,Monza,alfa,14,14,5,647.8474615384615,10
+gasly,2023,Monza,alpine,17,3,37,346.65669230769225,15
+hamilton,2023,Monza,mercedes,8,6,156,425.5109999999999,6
+hulkenberg,2023,Monza,haas,13,12,9,438.57315384615384,17
+lawson,2023,Monza,alphatauri,12,13,0,321.24569230769225,11
+leclerc,2023,Monza,ferrari,3,19,99,349.27776923076914,4
+kevin_magnussen,2023,Monza,haas,19,16,2,438.57315384615384,18
+norris,2023,Monza,mclaren,9,7,75,644.9993846153847,8
+ocon,2023,Monza,alpine,18,10,36,346.65669230769225,19
+perez,2023,Monza,red_bull,5,4,201,638.2963076923077,2
+piastri,2023,Monza,mclaren,7,9,36,644.9993846153847,12
+russell,2023,Monza,mercedes,4,17,99,425.5109999999999,5
+sainz,2023,Monza,ferrari,1,5,102,349.27776923076914,3
+sargeant,2023,Monza,williams,15,20,0,213.4225384615385,13
+stroll,2023,Monza,aston_martin,20,11,47,627.9462307692309,16
+tsunoda,2023,Monza,alphatauri,11,15,3,321.24569230769225,20
+max_verstappen,2023,Monza,red_bull,2,1,339,638.2963076923077,1
+zhou,2023,Monza,alfa,16,18,4,647.8474615384615,14
+albon,2023,Marina Bay,williams,14,7,21,378.44064285714285,11
+alonso,2023,Marina Bay,aston_martin,7,9,170,946.4857142857143,15
+bottas,2023,Marina Bay,alfa,16,10,6,786.0721428571429,17
+gasly,2023,Marina Bay,alpine,12,15,37,685.4429285714286,6
+hamilton,2023,Marina Bay,mercedes,5,6,164,759.7530714285714,3
+hulkenberg,2023,Marina Bay,haas,9,17,9,766.4075,13
+lawson,2023,Marina Bay,alphatauri,10,11,0,661.2170714285713,9
+leclerc,2023,Marina Bay,ferrari,3,4,111,508.8118571428571,4
+kevin_magnussen,2023,Marina Bay,haas,6,18,2,766.4075,10
+norris,2023,Marina Bay,mclaren,4,8,79,963.2407857142858,2
+ocon,2023,Marina Bay,alpine,8,19,36,685.4429285714286,18
+perez,2023,Marina Bay,red_bull,13,2,219,961.7967142857142,8
+piastri,2023,Marina Bay,mclaren,17,12,36,963.2407857142858,7
+russell,2023,Marina Bay,mercedes,2,5,109,759.7530714285714,16
+sainz,2023,Marina Bay,ferrari,1,3,117,508.8118571428571,1
+sargeant,2023,Marina Bay,williams,18,13,0,378.44064285714285,14
+stroll,2023,Marina Bay,aston_martin,20,16,47,946.4857142857143,20
+tsunoda,2023,Marina Bay,alphatauri,15,20,3,661.2170714285713,19
+max_verstappen,2023,Marina Bay,red_bull,11,1,364,961.7967142857142,5
+zhou,2023,Marina Bay,alfa,19,14,4,786.0721428571429,12
+albon,2023,Suzuka,williams,13,11,21,356.49906666666664,16
+alonso,2023,Suzuka,aston_martin,10,15,170,886.751,8
+bottas,2023,Suzuka,alfa,16,17,6,738.6682000000001,20
+gasly,2023,Suzuka,alpine,12,6,45,644.8341333333334,10
+hamilton,2023,Suzuka,mercedes,7,3,180,712.3341999999999,5
+hulkenberg,2023,Suzuka,haas,18,13,9,721.9702,14
+lawson,2023,Suzuka,alphatauri,11,9,2,620.3688,11
+leclerc,2023,Suzuka,ferrari,4,4,123,478.16533333333325,4
+kevin_magnussen,2023,Suzuka,haas,15,10,3,721.9702,15
+norris,2023,Suzuka,mclaren,3,2,97,904.3353333333333,2
+ocon,2023,Suzuka,alpine,14,18,36,644.8341333333334,9
+perez,2023,Suzuka,red_bull,5,8,223,900.8800666666666,19
+piastri,2023,Suzuka,mclaren,2,7,42,904.3353333333333,3
+russell,2023,Suzuka,mercedes,8,16,109,712.3341999999999,7
+sainz,2023,Suzuka,ferrari,6,1,142,478.16533333333325,6
+sargeant,2023,Suzuka,williams,20,14,0,356.49906666666664,17
+stroll,2023,Suzuka,aston_martin,17,20,47,886.751,18
+tsunoda,2023,Suzuka,alphatauri,9,19,3,620.3688,12
+max_verstappen,2023,Suzuka,red_bull,1,5,374,900.8800666666666,1
+zhou,2023,Suzuka,alfa,19,12,4,738.6682000000001,13
+albon,2023,Al Daayen,williams,14,16,21,343.87325,13
+alonso,2023,Al Daayen,aston_martin,4,8,174,836.5401875,6
+bottas,2023,Al Daayen,alfa,9,20,6,698.1986875000001,8
+gasly,2023,Al Daayen,alpine,7,10,46,608.3793125000001,12
+hamilton,2023,Al Daayen,mercedes,3,5,190,675.7025,19
+hulkenberg,2023,Al Daayen,haas,15,14,9,683.1001875,16
+lawson,2023,Al Daayen,alphatauri,18,11,2,583.6175,17
+leclerc,2023,Al Daayen,ferrari,5,4,135,452.1791874999999,5
+kevin_magnussen,2023,Al Daayen,haas,19,15,3,683.1001875,14
+norris,2023,Al Daayen,mclaren,10,2,115,851.49275,3
+ocon,2023,Al Daayen,alpine,8,9,38,608.3793125000001,7
+perez,2023,Al Daayen,red_bull,13,19,223,848.2422499999999,10
+piastri,2023,Al Daayen,mclaren,6,3,57,851.49275,2
+russell,2023,Al Daayen,mercedes,2,7,115,675.7025,4
+sainz,2023,Al Daayen,ferrari,12,6,150,452.1791874999999,20
+sargeant,2023,Al Daayen,williams,16,17,0,343.87325,18
+stroll,2023,Al Daayen,aston_martin,17,18,47,836.5401875,11
+tsunoda,2023,Al Daayen,alphatauri,11,12,3,583.6175,15
+max_verstappen,2023,Al Daayen,red_bull,1,1,400,848.2422499999999,1
+zhou,2023,Al Daayen,alfa,20,13,4,698.1986875000001,9
+albon,2023,Austin,williams,18,13,23,336.2379411764706,9
+alonso,2023,Austin,aston_martin,17,6,183,791.556705882353,16
+bottas,2023,Austin,alfa,13,8,10,668.8082941176472,12
+gasly,2023,Austin,alpine,7,12,46,578.473705882353,6
+hamilton,2023,Austin,mercedes,3,19,194,640.2203529411764,19
+hulkenberg,2023,Austin,haas,16,16,9,649.870294117647,11
+leclerc,2023,Austin,ferrari,1,5,145,431.0258235294117,20
+kevin_magnussen,2023,Austin,haas,14,14,3,649.870294117647,14
+norris,2023,Austin,mclaren,2,3,136,806.9554117647059,2
+ocon,2023,Austin,alpine,8,7,44,578.473705882353,18
+perez,2023,Austin,red_bull,9,10,224,953.5568823529411,4
+piastri,2023,Austin,mclaren,10,2,83,806.9554117647059,17
+ricciardo,2023,Austin,alphatauri,15,,0,402.0224705882352,15
+russell,2023,Austin,mercedes,5,4,132,640.2203529411764,5
+sainz,2023,Austin,ferrari,4,20,153,431.0258235294117,3
+sargeant,2023,Austin,williams,20,18,0,336.2379411764706,10
+stroll,2023,Austin,aston_martin,19,11,47,791.556705882353,7
+tsunoda,2023,Austin,alphatauri,11,15,3,402.0224705882352,8
+max_verstappen,2023,Austin,red_bull,6,1,433,953.5568823529411,1
+zhou,2023,Austin,alfa,12,9,6,668.8082941176472,13
+albon,2023,Mexico City,williams,14,9,25,325.6575,9
+alonso,2023,Mexico City,aston_martin,13,16,183,757.1168333333333,18
+bottas,2023,Mexico City,alfa,9,12,10,641.3724444444446,15
+gasly,2023,Mexico City,alpine,11,6,56,556.3682777777778,11
+hamilton,2023,Mexico City,mercedes,6,19,201,611.5821666666666,2
+hulkenberg,2023,Mexico City,haas,12,11,9,624.0311666666665,13
+leclerc,2023,Mexico City,ferrari,1,20,151,411.72516666666655,3
+kevin_magnussen,2023,Mexico City,haas,17,14,3,624.0311666666665,19
+norris,2023,Mexico City,mclaren,19,2,159,771.4386666666667,5
+ocon,2023,Mexico City,alpine,16,18,44,556.3682777777778,10
+perez,2023,Mexico City,red_bull,5,4,240,910.5971111111111,20
+piastri,2023,Mexico City,mclaren,7,17,83,771.4386666666667,8
+ricciardo,2023,Mexico City,alphatauri,4,15,0,384.30933333333326,7
+russell,2023,Mexico City,mercedes,8,5,143,611.5821666666666,6
+sainz,2023,Mexico City,ferrari,2,3,171,411.72516666666655,4
+sargeant,2023,Mexico City,williams,20,10,1,325.6575,16
+stroll,2023,Mexico City,aston_martin,18,7,53,757.1168333333333,17
+tsunoda,2023,Mexico City,alphatauri,15,8,8,384.30933333333326,12
+max_verstappen,2023,Mexico City,red_bull,3,1,466,910.5971111111111,1
+zhou,2023,Mexico City,alfa,10,13,6,641.3724444444446,14
+albon,2023,São Paulo,williams,15,9,27,313.7520526315789,19
+alonso,2023,São Paulo,aston_martin,4,18,183,722.4417368421052,3
+bottas,2023,São Paulo,alfa,18,15,10,612.8873684210528,16
+gasly,2023,São Paulo,alpine,13,11,56,529.653105263158,7
+hamilton,2023,São Paulo,mercedes,5,2,220,584.5457368421052,8
+hulkenberg,2023,São Paulo,haas,11,13,9,596.4870526315788,12
+leclerc,2023,São Paulo,ferrari,2,3,166,393.80826315789466,20
+kevin_magnussen,2023,São Paulo,haas,14,19,3,596.4870526315788,18
+norris,2023,São Paulo,mclaren,7,5,169,733.3374736842105,2
+ocon,2023,São Paulo,alpine,12,10,45,529.653105263158,10
+perez,2023,São Paulo,red_bull,9,20,240,867.7615789473684,4
+piastri,2023,São Paulo,mclaren,10,8,87,733.3374736842105,14
+ricciardo,2023,São Paulo,alphatauri,17,7,6,370.52605263157886,13
+russell,2023,São Paulo,mercedes,6,6,151,584.5457368421052,15
+sainz,2023,São Paulo,ferrari,8,4,183,393.80826315789466,6
+sargeant,2023,São Paulo,williams,19,16,1,313.7520526315789,11
+stroll,2023,São Paulo,aston_martin,3,17,53,722.4417368421052,5
+tsunoda,2023,São Paulo,alphatauri,16,12,8,370.52605263157886,9
+max_verstappen,2023,São Paulo,red_bull,1,1,491,867.7615789473684,1
+zhou,2023,São Paulo,alfa,20,14,6,612.8873684210528,17
+albon,2023,Las Vegas,williams,6,19,27,423.23060000000004,12
+alonso,2023,Las Vegas,aston_martin,10,3,198,811.5671,9
+bottas,2023,Las Vegas,alfa,8,16,10,707.5101500000001,17
+gasly,2023,Las Vegas,alpine,5,7,62,626.9015000000002,11
+hamilton,2023,Las Vegas,mercedes,11,8,226,679.0998999999999,7
+hulkenberg,2023,Las Vegas,haas,13,12,9,629.9932999999999,19
+leclerc,2023,Las Vegas,ferrari,1,20,170,497.6307999999999,2
+kevin_magnussen,2023,Las Vegas,haas,9,18,3,629.9932999999999,13
+norris,2023,Las Vegas,mclaren,16,2,195,822.4283499999999,20
+ocon,2023,Las Vegas,alpine,17,10,46,626.9015000000002,4
+perez,2023,Las Vegas,red_bull,12,4,258,887.0702500000001,3
+piastri,2023,Las Vegas,mclaren,19,14,87,822.4283499999999,10
+ricciardo,2023,Las Vegas,alphatauri,15,13,6,476.3857499999999,14
+russell,2023,Las Vegas,mercedes,4,15,156,679.0998999999999,8
+sainz,2023,Las Vegas,ferrari,2,6,192,497.6307999999999,6
+sargeant,2023,Las Vegas,williams,7,11,1,423.23060000000004,16
+stroll,2023,Las Vegas,aston_martin,14,5,63,811.5671,5
+tsunoda,2023,Las Vegas,alphatauri,20,9,13,476.3857499999999,18
+max_verstappen,2023,Las Vegas,red_bull,3,1,524,887.0702500000001,1
+zhou,2023,Las Vegas,alfa,18,17,6,707.5101500000001,15
+albon,2023,Abu Dhabi,williams,14,12,27,474.3711904761906,14
+alonso,2023,Abu Dhabi,aston_martin,7,9,200,913.4931904761904,7
+bottas,2023,Abu Dhabi,alfa,18,17,10,813.2534285714286,19
+gasly,2023,Abu Dhabi,alpine,10,11,62,739.6720476190477,13
+hamilton,2023,Abu Dhabi,mercedes,11,7,232,787.3173333333334,9
+hulkenberg,2023,Abu Dhabi,haas,8,19,9,671.5922857142856,15
+leclerc,2023,Abu Dhabi,ferrari,2,2,188,544.6005238095237,2
+kevin_magnussen,2023,Abu Dhabi,haas,17,13,3,671.5922857142856,20
+norris,2023,Abu Dhabi,mclaren,5,20,195,932.8287619047618,5
+ocon,2023,Abu Dhabi,alpine,12,4,58,739.6720476190477,12
+perez,2023,Abu Dhabi,red_bull,9,3,273,985.1510476190477,4
+piastri,2023,Abu Dhabi,mclaren,3,10,89,932.8287619047618,6
+ricciardo,2023,Abu Dhabi,alphatauri,15,14,6,603.4109047619046,11
+russell,2023,Abu Dhabi,mercedes,4,8,160,787.3173333333334,3
+sainz,2023,Abu Dhabi,ferrari,16,6,200,544.6005238095237,18
+sargeant,2023,Abu Dhabi,williams,20,16,1,474.3711904761906,16
+stroll,2023,Abu Dhabi,aston_martin,13,5,73,913.4931904761904,10
+tsunoda,2023,Abu Dhabi,alphatauri,6,18,13,603.4109047619046,8
+max_verstappen,2023,Abu Dhabi,red_bull,1,1,549,985.1510476190477,1
+zhou,2023,Abu Dhabi,alfa,19,15,6,813.2534285714286,17
+albon,2024,Melbourne,williams,12,11,0,24.6455,11
+alonso,2024,Melbourne,aston_martin,10,5,12,49.429,8
+bottas,2024,Melbourne,sauber,13,17,0,75.7475,14
+gasly,2024,Melbourne,alpine,17,20,0,65.852,13
+hamilton,2024,Melbourne,mercedes,11,9,8,49.412499999999994,18
+hulkenberg,2024,Melbourne,haas,16,10,1,68.078,9
+leclerc,2024,Melbourne,ferrari,5,3,28,48.2725,2
+kevin_magnussen,2024,Melbourne,haas,14,12,0,68.078,10
+norris,2024,Melbourne,mclaren,4,8,12,49.606,3
+ocon,2024,Melbourne,alpine,15,13,0,65.852,16
+perez,2024,Melbourne,red_bull,3,2,36,49.176,5
+piastri,2024,Melbourne,mclaren,6,4,16,49.606,4
+ricciardo,2024,Melbourne,rb,18,16,0,49.446,12
+russell,2024,Melbourne,mercedes,7,6,18,49.412499999999994,17
+sainz,2024,Melbourne,ferrari,2,,15,48.2725,1
+stroll,2024,Melbourne,aston_martin,9,19,1,49.429,6
+tsunoda,2024,Melbourne,rb,8,15,0,49.446,7
+max_verstappen,2024,Melbourne,red_bull,1,1,51,49.176,19
+zhou,2024,Melbourne,sauber,19,18,0,75.7475,15
+albon,2024,Suzuka,williams,14,11,0,60.267999999999994,20
+alonso,2024,Suzuka,aston_martin,5,8,16,40.329,6
+bottas,2024,Suzuka,sauber,13,14,0,81.31733333333334,14
+gasly,2024,Suzuka,alpine,17,13,0,51.40200000000001,16
+hamilton,2024,Suzuka,mercedes,7,18,8,46.66933333333333,9
+hulkenberg,2024,Suzuka,haas,12,9,3,59.550333333333334,11
+leclerc,2024,Suzuka,ferrari,8,2,47,39.988,4
+kevin_magnussen,2024,Suzuka,haas,18,10,1,59.550333333333334,13
+norris,2024,Suzuka,mclaren,3,3,27,47.61666666666667,5
+ocon,2024,Suzuka,alpine,15,16,0,51.40200000000001,15
+perez,2024,Suzuka,red_bull,2,5,46,47.05166666666667,2
+piastri,2024,Suzuka,mclaren,6,4,28,47.61666666666667,8
+ricciardo,2024,Suzuka,rb,11,12,0,61.31666666666666,19
+russell,2024,Suzuka,mercedes,9,17,18,46.66933333333333,7
+sainz,2024,Suzuka,ferrari,4,1,40,39.988,3
+sargeant,2024,Suzuka,williams,19,,0,60.267999999999994,17
+stroll,2024,Suzuka,aston_martin,16,6,9,40.329,12
+tsunoda,2024,Suzuka,rb,10,7,6,61.31666666666666,10
+max_verstappen,2024,Suzuka,red_bull,1,19,51,47.05166666666667,1
+zhou,2024,Suzuka,sauber,20,15,0,81.31733333333334,18
+albon,2024,Shanghai,williams,14,20,0,54.07599999999999,12
+alonso,2024,Shanghai,aston_martin,3,6,24,48.255,7
+bottas,2024,Shanghai,sauber,10,14,0,91.43925,20
+gasly,2024,Shanghai,alpine,15,16,0,64.781,13
+hamilton,2024,Shanghai,mercedes,18,9,10,48.403499999999994,9
+hulkenberg,2024,Shanghai,haas,9,11,3,62.891999999999996,10
+leclerc,2024,Shanghai,ferrari,6,4,59,47.504999999999995,4
+kevin_magnussen,2024,Shanghai,haas,17,13,1,62.891999999999996,16
+norris,2024,Shanghai,mclaren,4,5,37,53.59625,2
+ocon,2024,Shanghai,alpine,13,15,0,64.781,11
+perez,2024,Shanghai,red_bull,2,2,64,44.12225,3
+piastri,2024,Shanghai,mclaren,5,8,32,53.59625,8
+ricciardo,2024,Shanghai,rb,12,19,0,64.006,18
+russell,2024,Shanghai,mercedes,8,7,24,48.403499999999994,6
+sainz,2024,Shanghai,ferrari,7,3,55,47.504999999999995,5
+sargeant,2024,Shanghai,williams,20,17,0,54.07599999999999,17
+stroll,2024,Shanghai,aston_martin,11,12,9,48.255,15
+tsunoda,2024,Shanghai,rb,19,10,7,64.006,19
+max_verstappen,2024,Shanghai,red_bull,1,1,77,44.12225,1
+zhou,2024,Shanghai,sauber,16,18,0,91.43925,14
+albon,2024,Miami,williams,14,12,0,374.9216,18
+alonso,2024,Miami,aston_martin,15,7,31,695.1034000000001,9
+bottas,2024,Miami,sauber,16,20,0,726.5087999999998,16
+gasly,2024,Miami,alpine,12,13,0,705.3065999999999,12
+hamilton,2024,Miami,mercedes,8,9,19,689.8810000000001,6
+hulkenberg,2024,Miami,haas,9,10,4,698.1794,11
+leclerc,2024,Miami,ferrari,2,4,76,684.6924,3
+kevin_magnussen,2024,Miami,haas,19,16,1,698.1794,19
+norris,2024,Miami,mclaren,5,2,58,693.4508,1
+ocon,2024,Miami,alpine,13,11,0,705.3065999999999,10
+perez,2024,Miami,red_bull,4,3,85,684.422,4
+piastri,2024,Miami,mclaren,6,8,38,693.4508,13
+ricciardo,2024,Miami,rb,18,18,0,377.48420000000004,15
+russell,2024,Miami,mercedes,7,6,33,689.8810000000001,8
+sainz,2024,Miami,ferrari,3,5,69,684.6924,5
+sargeant,2024,Miami,williams,17,17,0,374.9216,20
+stroll,2024,Miami,aston_martin,11,15,9,695.1034000000001,17
+tsunoda,2024,Miami,rb,10,19,7,377.48420000000004,7
+max_verstappen,2024,Miami,red_bull,1,1,110,684.422,2
+zhou,2024,Miami,sauber,20,14,0,726.5087999999998,14
